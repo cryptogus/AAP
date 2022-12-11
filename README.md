@@ -3,7 +3,7 @@
 ### Introduction      
 Team Name : Free'C'ize     
 Project Name : Enter Stellar     
-Team member : **Keon-hee Choi**, Yong-jin Lee, Hyun-ho Lee    
+Team member : Keon-hee Choi, Yong-jin Lee, **Hyun-ho Lee**  
 Team intern : Yoon-seo Ki, Dong-chan Kim(not profeesor)   
 
 Free'C'ize's Big Number C Library is a project for Crypto System such as RSA, DSA.     
